@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu perfil 🐰 ✌️
 
- ![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianagft&show_icons=true&theme=midnight-purple)
+ ![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianagft&show_icons=true&theme=neon)
 
     
 <div style="display: inline_block"><br>
