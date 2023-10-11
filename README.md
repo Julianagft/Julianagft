@@ -1,8 +1,6 @@
 ### Olá, bem vindo ao meu perfil 🐰 ✌️
 
  ![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianagft&show_icons=true&theme=neon) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianagf&size_weight=0.5&count_weight=0.5&layout=donut&show_icons=true&theme=neon)
-
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
