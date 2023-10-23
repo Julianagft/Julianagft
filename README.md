@@ -1,7 +1,7 @@
 ### Olá, bem vindo ao meu perfil 🐰 ✌️
 
- <p>![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianagft&show_icons=true&theme=neon) </p>
- <p> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianagft&layout=compact) </p>
+ ![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianagft&show_icons=true&theme=neon) <br> <br>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianagft&layout=compact) 
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
